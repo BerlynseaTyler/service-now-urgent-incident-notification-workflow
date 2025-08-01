@@ -25,8 +25,14 @@
 > c. Updated the message subject line & body to be more appropriate to the business use case of notifying a team of new critical network incidents, ensuring to include a link to the incident for ease of access.
 >  ![Message Body](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Notification%20Message%20Body.png?raw=true)
 
-4. 
+#### Testing 
+1. Submitted several test incidents matching the workflow criteria to ensure the new notifications met company SLA standards.
+   > ![Test Incidents](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Test%20Incidents.png?raw=true)
+2. Ensured the email will be sent within 5 minutes of the creation of the new incident.
+   > ![Email Confirmations](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Email%20Confirmations.png?raw=true)
 
+### Results 
+The updated workflow successfully notified all members of the networking operations group within 1 minute of submission, adhereing to the company's SLAs.
 
 ## Architecture Diagram
 
