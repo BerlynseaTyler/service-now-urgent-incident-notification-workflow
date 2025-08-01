@@ -44,4 +44,9 @@ The updated workflow successfully notified all members of the networking operati
 
 
 ## AI Scenario
+As Uber takes the market position as the go-to ride share platform across time zones and continents, critical incidents don’t follow a 9-to-5 PST schedule and neither should our response strategy. Today’s escalation paths don't account for who’s actually available or best suited to handle a specific issue. Integrating AI into the notification workflow could change that. An intelligent agent can use real-time data to route incidents to engineers who are not only online, but skilled in the affected system and have resolved similar issues before. It could assess the current on-call shift, prioritize availability by workload and time zone, and reroute to another engineer if there's no response within minutes. Over time, the agent could learn from these incidents to optimize it's routing logic. 
+
+This approach would improve SLA compliance and help prevent service disruptions **before** they affect our customer's experience. 
+
+
 
