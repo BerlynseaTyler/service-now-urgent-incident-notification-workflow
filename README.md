@@ -1,5 +1,7 @@
 # service-now-urgent-incident-notification-workflow
 ## System Overview
+After a high-impact outage in Uber’s San Francisco data center exposed a breakdown in critical incident notifications, I was tasked with remediating the existing ServiceNow workflow responsible for alerting the Network Operations team. The original flow failed to trigger notifications for high-priority network incidents. I reconfigured the trigger conditions to target incidents with Priority = 1 and Category = Network, updated the notification details for clarity and alignment, and verified that alerts were sent within SLA thresholds. The renamed Critical Network Incident Notifications workflow now sends out targeted emails to the right group in under a minute, closing the communication gap before it becomes a crisis.
+
 ![Workflow Diagram](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Overview%20of%20Critical%20Network%20Incident%20Flow.png?raw=true)
 
 ## Implementation Steps
