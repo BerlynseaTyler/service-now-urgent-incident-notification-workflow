@@ -38,6 +38,8 @@ The updated workflow successfully notified all members of the networking operati
 
 ## Architecture Diagram
 
+![Diagram](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Diagram.png?raw=true)
+
 
 ## AI Scenario
 
