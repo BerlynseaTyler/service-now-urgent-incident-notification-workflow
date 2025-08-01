@@ -30,11 +30,14 @@
    > ![Test Incidents](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Test%20Incidents.png?raw=true)
 2. Ensured the email will be sent within 5 minutes of the creation of the new incident.
    > ![Email Confirmations](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Email%20Confirmations.png?raw=true)
+   > 
+   > ![Email Preview](https://github.com/BerlynseaTyler/service-now-urgent-incident-notification-workflow/blob/main/Images/Email%20Preview.png?raw=true) 
 
 ### Results 
 The updated workflow successfully notified all members of the networking operations group within 1 minute of submission, adhereing to the company's SLAs.
 
 ## Architecture Diagram
+
 
 ## AI Scenario
 
